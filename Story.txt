@@ -54,9 +54,9 @@ way for I have no idea
 what could be wrong. Maybe a
 parentheses or two surrending that code,
 or even one if statement gone
-wrong. Debug I must as I
-run through my code, no compile
-errors to work from my work
+wrong. I debug on the fly as I
+run through my code, and am rewarded with
+no compile errors for my work.
 <<<<<<< HEAD
 is hard.I saw a fight,
 friend and foe circling and attacking. After lots of time
