@@ -28,3 +28,15 @@ just not looking at the right
 thing, Or is my logic flawed?
 Google my friend show me the
 way for I have no idea
+what could be wrong. Maybe a
+parentheses or two surrending that code,
+or even one if statement gone
+wrong. Debug I must as I
+run through my code, no compile
+errors to work from my work
+is hard. After lots of time
+I find my error, a minor
+mistake I must have overlooked. Why
+must it be the easy mistakes
+that take the most to solve.
+Perhaps it is the fact that
