@@ -16,3 +16,8 @@ that just happen to not work.
 In a last ditch effort, I
 try one last thing. Changing the
 logic over and over my problems
+fix themselves, but to my suprise
+more problems come my way. Thus
+I start my journey for a
+new solution. Line by line I
+search my code trying to find
