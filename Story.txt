@@ -15,7 +15,7 @@ read as
 a good 
 story on 
 paper. But 
-here goes:
+here  it goes:
 Once upon a time I was
 working on a piece of code.
 After hours and hours of thinking, 
